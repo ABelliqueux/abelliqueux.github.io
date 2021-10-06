@@ -16,3 +16,4 @@ Want to start PSX dev and don't know where to start ? Just check this page : [ht
 
   * [https://psx.arthus.net/](https://psx.arthus.net/) : Ressource center for PSX dev tools, docs, roms, sdks, code samples...
   * [https://wiki.arthus.net/](https://wiki.arthus.net/) : Personal tech oriented log
+  * [https://s.42l.fr/psyq_wiki](https://s.42l.fr/psyq_wiki) : PSX file format wiki - modern tools to convert audio/video/pic to PSX formats
