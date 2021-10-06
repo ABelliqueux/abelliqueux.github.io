@@ -1,5 +1,7 @@
 # Abelliqueux's projects :
 
+Want to start PSX dev and don't know where to start ? Just check this page : [https://psx.arthus.net/starting.html](https://psx.arthus.net/starting.html) !  
+
 ## PSX dev :
 
   * [3dcam](https://github.com/ABelliqueux/3dcam-headers) :  A PSX 3D engine.  
